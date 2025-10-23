@@ -235,5 +235,7 @@ A **line graph** showing infection growth over time for major countries:
 - Visuals confirm the effectiveness of combining **SQL data cleaning** with **Tableau visual storytelling**.
 
 ---
+### Here's the Dashboard
 
+https://public.tableau.com/views/Covid19Dashboard_17587405914040/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
